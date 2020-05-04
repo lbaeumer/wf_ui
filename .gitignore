@@ -6,6 +6,7 @@
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
+/target
 
 # dependencies
 /node_modules
@@ -18,6 +19,7 @@ speed-measure-plugin*.json
 /.idea
 .project
 .classpath
+.factorypath
 .c9/
 *.launch
 .settings/
